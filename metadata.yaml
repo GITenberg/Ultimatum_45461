@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos
     - http://pt.wikipedia.org/wiki/%C3%81lvaro_de_Campos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45461#Ultimatum
 gutenberg_issued: '2014-04-23'
 gutenberg_type: Text
 identifiers:
