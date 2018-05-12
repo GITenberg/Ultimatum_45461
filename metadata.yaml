@@ -1,0 +1,33 @@
+_repo: Ultimatum_45461
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45461-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Campos, Alvaro de
+    aliases:
+    - Campos, Álvaro de
+    - De Campos, Alvaro
+    birthdate: 1888
+    deathdate: 1935
+    gutenberg_agent_id: '26230'
+    url: http://www.gutenberg.org/2009/agents/26230
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/9005
+    - http://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos
+    - http://pt.wikipedia.org/wiki/%C3%81lvaro_de_Campos
+description: ''
+gutenberg_issued: '2014-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45461'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- 20th century'
+title: Ultimatum
+url: http://www.gutenberg.org/ebooks/45461
